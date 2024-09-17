@@ -1,4 +1,4 @@
-# Kraftelektronikk_gr_7
+# Design of a boost converter
 
 MATLAB Version: R2022b update 5
 
